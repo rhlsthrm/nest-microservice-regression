@@ -24,7 +24,7 @@
     "@nestjs/common": "^6.11.6",
     "@nestjs/core": "^6.11.6",
     "@nestjs/microservices": "^6.11.6",
-    "@nestjs/platform-express": "^6.11.6",
+    "@nestjs/platform-express": "^9.2.1",
     "nats": "^1.4.0",
     "reflect-metadata": "^0.1.13",
     "rimraf": "^3.0.0",
